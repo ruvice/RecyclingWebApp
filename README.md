@@ -1,4 +1,4 @@
-#### About Me
+## About Me
 This project was created for CZ2006 and CZ3002. 
 
 ### Brief description
